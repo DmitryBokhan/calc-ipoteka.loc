@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4":{
+      "iteush\\": "vendor/iteush",
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "gabordemooij/redbean": "^v5.7.1"
+  }
+}
