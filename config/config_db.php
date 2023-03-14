@@ -3,7 +3,7 @@
  * Массив конфигураций для подключения к базе данных
  */
 return [
-    'dsn' => 'mysql:host=localhost; dbname=newishop; charset=utf8',
+    'dsn' => 'mysql:host=localhost; dbname=calc_ipoteka; charset=utf8',
     'user' => 'root',
     'password' => '',
 ];

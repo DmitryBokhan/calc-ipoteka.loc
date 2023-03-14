@@ -20,7 +20,7 @@ function h($str)
 
 /**
  * Сделать редирект.
- * Если не указан параметр http, то редирект происхдит на путь из константы PATH
+ * Если не указан параметр http, то редирект происходит на путь из константы PATH
  * @param $http
  * @return void
  */
@@ -35,15 +35,6 @@ function redirect($http = false)
     die;
 }
 
-/**
- * Получить базовый url.
- * Возвращает url с учетом выбранного языка приложения
- * @return string
- */
-function base_url()
-{
-    return PATH . '/' . (\iteush\App::$app->getProperty('lang') ? \iteush\App::$app->getProperty('lang') . '/': '');
-}
 
 /**
  * Получить GET параметр по ключу
@@ -83,24 +74,3 @@ function post($key, $type = 's')
     }
 }
 
-
-function __($key)
-{
-    echo \iteush\Language::get($key);
-}
-
-
-function ___($key)
-{
-    return \iteush\Language::get($key);
-}
-
-function get_cart_icon($id)
-{
-    if(!empty($_SESSION['cart']) && array_key_exists($id, $_SESSION['cart'])){
-        $icon = '<i class="fas fa-luggage-cart"></i>';
-    }else{
-        $icon = '<i class="fas fa-shopping-cart"></i>';
-    }
-    return $icon;
-}
