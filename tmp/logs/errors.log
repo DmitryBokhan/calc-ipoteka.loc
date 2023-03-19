@@ -1,0 +1,38 @@
+[2023-03-14 16:09:47] Текст ошибки: Возникла ошибка! | Файл: C:\OSPanel\domains\calc-ipoteka.loc\public\index.php | Строка: 11
+==============
+[2023-03-14 16:09:47] Текст ошибки: Возникла ошибка! | Файл: C:\OSPanel\domains\calc-ipoteka.loc\public\index.php | Строка: 11
+==============
+[2023-03-14 16:19:27] Текст ошибки: Возникла ошибка! | Файл: C:\OSPanel\domains\calc-ipoteka.loc\public\index.php | Строка: 11
+==============
+[2023-03-14 16:19:29] Текст ошибки: Возникла ошибка! | Файл: C:\OSPanel\domains\calc-ipoteka.loc\public\index.php | Строка: 11
+==============
+[2023-03-14 16:19:31] Текст ошибки: Возникла ошибка! | Файл: C:\OSPanel\domains\calc-ipoteka.loc\public\index.php | Строка: 11
+==============
+[2023-03-14 16:19:36] Текст ошибки: Возникла ошибка! | Файл: C:\OSPanel\domains\calc-ipoteka.loc\public\index.php | Строка: 11
+==============
+[2023-03-19 21:46:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 73
+==============
+[2023-03-19 21:46:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 73
+==============
+[2023-03-19 21:46:40] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 70
+==============
+[2023-03-19 21:47:43] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 70
+==============
+[2023-03-19 21:51:53] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 70
+==============
+[2023-03-19 21:52:02] Текст ошибки: Call to undefined method app\controllers\MainController::getModel() | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 60
+==============
+[2023-03-19 21:55:08] Текст ошибки: Call to undefined method app\controllers\MainController::getModel() | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 60
+==============
+[2023-03-19 21:55:10] Текст ошибки: Call to undefined method app\controllers\MainController::getModel() | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 60
+==============
+[2023-03-19 21:55:10] Текст ошибки: Call to undefined method app\controllers\MainController::getModel() | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 60
+==============
+[2023-03-19 21:55:20] Текст ошибки: Call to undefined method app\controllers\MainController::getView() | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 65
+==============
+[2023-03-19 22:00:16] Текст ошибки: Call to undefined method app\controllers\MainController::getModel() | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 60
+==============
+[2023-03-19 22:00:19] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 60
+==============
+[2023-03-19 22:00:32] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getView() | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 65
+==============

@@ -4,6 +4,13 @@ if(PHP_MAJOR_VERSION < 8){
 }
 
 require_once dirname(__DIR__) . '/config/init.php';
+require_once HELPERS . '/functions.php';
+require_once CONFIG . '/routes.php';
+
 new \iteush\App();
 
+debug(\iteush\Router::getRoutes());
+
 //var_dump(\iteush\App::$app->getProperties());
+
+//throw new Exception('Возникла ошибка!');
