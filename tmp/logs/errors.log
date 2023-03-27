@@ -36,3 +36,49 @@
 ==============
 [2023-03-19 22:00:32] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getView() | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 65
 ==============
+[2023-03-20 10:30:16] Текст ошибки: Не найден вид C:\OSPanel\domains\calc-ipoteka.loc/app/views/admin/Main/index.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 47
+==============
+[2023-03-20 10:30:21] Текст ошибки: Не найден вид C:\OSPanel\domains\calc-ipoteka.loc/app/views/admin/Main/index.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 47
+==============
+[2023-03-20 10:32:07] Текст ошибки: Не найден вид C:\OSPanel\domains\calc-ipoteka.loc/app/views/admin/Main/index.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 47
+==============
+[2023-03-20 10:32:08] Текст ошибки: Не найден вид C:\OSPanel\domains\calc-ipoteka.loc/app/views/admin/Main/index.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 47
+==============
+[2023-03-20 10:32:45] Текст ошибки: Не найден вид C:\OSPanel\domains\calc-ipoteka.loc/app/views/admin/Main/index.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 47
+==============
+[2023-03-20 10:33:31] Текст ошибки: Не найден шаблон C:\OSPanel\domains\calc-ipoteka.loc/app/views/layouts/ishop.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 55
+==============
+[2023-03-20 10:33:55] Текст ошибки: Не найден шаблон C:\OSPanel\domains\calc-ipoteka.loc/app/views/layouts/ishop.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 55
+==============
+[2023-03-20 10:33:56] Текст ошибки: Не найден шаблон C:\OSPanel\domains\calc-ipoteka.loc/app/views/layouts/ishop.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 55
+==============
+[2023-03-20 10:33:56] Текст ошибки: Не найден шаблон C:\OSPanel\domains\calc-ipoteka.loc/app/views/layouts/ishop.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 55
+==============
+[2023-03-20 10:35:15] Текст ошибки: Не найден шаблон C:\OSPanel\domains\calc-ipoteka.loc/app/views/layouts/ishop.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 55
+==============
+[2023-03-20 10:37:50] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 90
+==============
+[2023-03-20 10:38:04] Текст ошибки: Не найден вид C:\OSPanel\domains\calc-ipoteka.loc/app/views/admin/Main/index.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 47
+==============
+[2023-03-20 10:42:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 90
+==============
+[2023-03-20 10:43:11] Текст ошибки: Не найден шаблон C:\OSPanel\domains\calc-ipoteka.loc/app/views/layouts/ishop.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 55
+==============
+[2023-03-20 10:43:48] Текст ошибки: Не найден шаблон C:\OSPanel\domains\calc-ipoteka.loc/app/views/layouts/test.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 55
+==============
+[2023-03-20 10:49:07] Текст ошибки: Не найден шаблон C:\OSPanel\domains\calc-ipoteka.loc/app/views/layouts/ishop.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 55
+==============
+[2023-03-20 11:18:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Router.php | Строка: 90
+==============
+[2023-03-20 11:32:55] Текст ошибки: syntax error, unexpected token "=>", expecting ")" | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\controllers\MainController.php | Строка: 22
+==============
+[2023-03-27 14:17:12] Текст ошибки: Не найден шаблон C:\OSPanel\domains\calc-ipoteka.loc/app/views/layouts/index.php | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\View.php | Строка: 55
+==============
+[2023-03-27 14:24:52] Текст ошибки: compact(): Undefined variable $gos | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\controllers\MainController.php | Строка: 26
+==============
+[2023-03-27 14:25:25] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\views\layouts\default.php | Строка: 20
+==============
+[2023-03-27 14:26:19] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\views\layouts\default.php | Строка: 20
+==============
+[2023-03-27 15:33:35] Текст ошибки: No connection to DB | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Db.php | Строка: 22
+==============

@@ -9,7 +9,7 @@ require_once CONFIG . '/routes.php';
 
 new \iteush\App();
 
-debug(\iteush\Router::getRoutes());
+//debug(\iteush\Router::getRoutes());
 
 //var_dump(\iteush\App::$app->getProperties());
 

@@ -1,3 +1,5 @@
 .idea
-/vendor
 !/vendor/iteush
+/vendor/gabordemooij/
+/vendor/composer/
+/vendor/autoload.php

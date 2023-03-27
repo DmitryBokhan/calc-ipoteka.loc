@@ -9,7 +9,7 @@ define("HELPERS", ROOT . '/vendor/iteush/helpers');
 define("CACHE", ROOT . '/tmp/cache');
 define("LOGS", ROOT . '/tmp/logs');
 define("CONFIG", ROOT . '/config');
-define("LAYOUT", 'ishop'); //название шаблона по умолчанию
+define("LAYOUT", 'default'); //название шаблона по умолчанию
 define("PATH", 'http://calc-ipoteka.loc');
 define("ADMIN", 'http://calc-ipoteka.loc/admin');
 define("NO_IMAGE", '/uploads/no_image.jpg');
