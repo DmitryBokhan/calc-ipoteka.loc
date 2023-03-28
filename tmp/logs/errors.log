@@ -82,3 +82,61 @@
 ==============
 [2023-03-27 15:33:35] Текст ошибки: No connection to DB | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\Db.php | Строка: 22
 ==============
+[2023-03-27 17:57:32] Текст ошибки: Class "app\controllers\ParsGoogleTable" not found | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\controllers\MainController.php | Строка: 21
+==============
+[2023-03-27 17:57:44] Текст ошибки: Call to undefined function iteush\get_data() | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 12
+==============
+[2023-03-28 10:26:06] Текст ошибки: file_get_contents(C:\OSPanel\domains\calc-ipoteka.loc/tmp/parsdata_1c6A0ng6tm0jqLtLyIy1DV87Zp3gHlPz28jdCrQucqAE.json): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 38
+==============
+[2023-03-28 10:26:10] Текст ошибки: file_get_contents(C:\OSPanel\domains\calc-ipoteka.loc/tmp/parsdata_1c6A0ng6tm0jqLtLyIy1DV87Zp3gHlPz28jdCrQucqAE.json): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 38
+==============
+[2023-03-28 10:26:48] Текст ошибки: file_get_contents(C:\OSPanel\domains\calc-ipoteka.loc/tmp/pars/data_1c6A0ng6tm0jqLtLyIy1DV87Zp3gHlPz28jdCrQucqAE.json): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 38
+==============
+[2023-03-28 10:27:02] Текст ошибки: file_get_contents(C:\OSPanel\domains\calc-ipoteka.loc/tmp/pars/data_1c6A0ng6tm0jqLtLyIy1DV87Zp3gHlPz28jdCrQucqAE.json): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 38
+==============
+[2023-03-28 10:28:41] Текст ошибки: file_get_contents(C:\OSPanel\domains\calc-ipoteka.loc/tmp/pars/data_krd.json): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 38
+==============
+[2023-03-28 10:28:45] Текст ошибки: file_get_contents(C:\OSPanel\domains\calc-ipoteka.loc/tmp/pars/data_krd.json): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 38
+==============
+[2023-03-28 10:29:05] Текст ошибки: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 41
+==============
+[2023-03-28 10:29:08] Текст ошибки: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 41
+==============
+[2023-03-28 10:30:35] Текст ошибки: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 41
+==============
+[2023-03-28 10:32:10] Текст ошибки: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 41
+==============
+[2023-03-28 10:32:13] Текст ошибки: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 41
+==============
+[2023-03-28 10:33:29] Текст ошибки: Call to undefined function iteush\get_data() | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 43
+==============
+[2023-03-28 10:35:50] Текст ошибки: Cannot assign string to property iteush\ParsGoogleTable::$data of type array | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 12
+==============
+[2023-03-28 10:37:54] Текст ошибки: syntax error, unexpected token ";", expecting ")" | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 109
+==============
+[2023-03-28 10:58:26] Текст ошибки: file_get_contents(C:\OSPanel\domains\calc-ipoteka.loc/tmp/pars/data_krd.json): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 117
+==============
+[2023-03-28 10:58:28] Текст ошибки: file_get_contents(C:\OSPanel\domains\calc-ipoteka.loc/tmp/pars/data_krd.json): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 117
+==============
+[2023-03-28 11:40:02] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\views\Main\index.php | Строка: 8
+==============
+[2023-03-28 11:57:34] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\views\Main\index.php | Строка: 8
+==============
+[2023-03-28 11:57:49] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\views\Main\index.php | Строка: 8
+==============
+[2023-03-28 12:08:24] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\views\Main\index.php | Строка: 8
+==============
+[2023-03-28 12:19:22] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\views\Main\index.php | Строка: 8
+==============
+[2023-03-28 12:19:35] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\views\Main\index.php | Строка: 8
+==============
+[2023-03-28 12:29:11] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\views\Main\index.php | Строка: 8
+==============
+[2023-03-28 12:29:25] Текст ошибки: Undefined array key "sber" | Файл: C:\OSPanel\domains\calc-ipoteka.loc\vendor\iteush\ParsGoogleTable.php | Строка: 170
+==============
+[2023-03-28 12:29:37] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\views\Main\index.php | Строка: 8
+==============
+[2023-03-28 12:36:11] Текст ошибки: Class "app\controllers\DataGoogleTable" not found | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\controllers\MainController.php | Строка: 24
+==============
+[2023-03-28 12:36:23] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\calc-ipoteka.loc\app\views\Main\index.php | Строка: 8
+==============

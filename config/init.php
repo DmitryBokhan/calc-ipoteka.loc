@@ -13,6 +13,7 @@ define("LAYOUT", 'default'); //название шаблона по умолча
 define("PATH", 'http://calc-ipoteka.loc');
 define("ADMIN", 'http://calc-ipoteka.loc/admin');
 define("NO_IMAGE", '/uploads/no_image.jpg');
+define("PARS", ROOT . '/tmp/pars');
 
 require_once ROOT . '/vendor/autoload.php';
 
